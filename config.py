@@ -52,7 +52,7 @@ class Txt(object):
 <b>❍ ᴅᴀᴛᴀʙᴀꜱᴇ :</b> <a href="https://t.me/All_animes_in_teluguu_Go">ᴍᴏɴɢᴏ ᴅʙ</a>
 <b>❍ ʜᴏꜱᴛᴇᴅ ᴏɴ :</b> <a href="https://t.me/All_animes_in_teluguu_Go">ᴠᴘs</a>
 <b>❍ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ :</b> <a href="https://t.me/All_animes_in_teluguu_Go">ᴀɴɪᴍᴇs Bro</a>
-"""
+
 ➻ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ғᴏʀ ɢᴇᴛᴛɪɴɢ ʙᴀsɪᴄ ʜᴇʟᴩ ᴀɴᴅ ɪɴғᴏ ᴀʙᴏᴜᴛ ᴍᴇ.</b>"""
 
     
